@@ -1,0 +1,12 @@
+{
+    "name": "salcode/updating-composer-dependencies-for-php-8",
+    "description": "An example repo that uses Composer and requires dependencies not compatible with PHP 8.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sal Ferrarello",
+            "email": "5194588+salcode@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
